@@ -12,6 +12,16 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.cv{
+    color: red;
+    text-align: center;
+    background-color: aquamarine;
+    border: 3px solid blue;
+    margin-top: 13px;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-bottom: 13px;
+}
 
 .App-header {
   background-color: #282c34;
